@@ -31,7 +31,5 @@
 
 ## 
 ### Portfólio
-  <a href="https://www.lucasalencar.cloud" alt="Portfólio link">
 
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lucasalencar.cloud)
